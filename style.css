@@ -1,0 +1,35 @@
+.stats{
+
+	position: relative;
+	left: 950px;
+	bottom: 500px;
+	font-size: 40px;
+	margin: 20px;
+	color:white;
+	font-family: "Impact";
+	letter-spacing: 3px;
+
+
+}
+
+.controls{
+	justify-content: center;
+display: flex;
+position: relative;
+left: 950px ;
+bottom: 500px;
+margin: 20px;
+width: 100px;
+height: 30px;
+
+
+}
+#canvas{
+
+	position: relative;
+	left: 30%
+}
+
+body{
+	background-color: #37474f;
+}
